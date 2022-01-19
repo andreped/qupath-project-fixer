@@ -3,7 +3,7 @@
 Simple program that makes it possible to directly run other people's qupath projects, without the need to re-importing all images again.
 
 To use the software:
-1) Download the executable located in Releases (click [here](https://github.com/andreped/qupath-project-fixer/releases/tag/v0.1.0) to access the software)
+1) **Download the executable located in Releases** (click [here](https://github.com/andreped/qupath-project-fixer/releases/tag/v0.1.0) to access the software)
 2) Run the downloaded executable (which should open a file explorer)
 3) From the file explorer, select the project file to be fixed
 4) From the new file explorer, select the directory containing the corresponding .vsi-files
